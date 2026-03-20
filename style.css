@@ -1,0 +1,37 @@
+* {
+    background-color: rgb(131, 182, 131);
+}
+
+h1{
+    color: rgb(88, 61, 25);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.abacatinhos{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.titulinhoAbacatudo{
+    text-align: center;
+}
+
+.nossosAbacatinhos{
+    display: flex;
+    width: 300px;
+    /*height: 323px;*/
+    align-items: center;
+}
+
+.sobreAbacatinhos{
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
